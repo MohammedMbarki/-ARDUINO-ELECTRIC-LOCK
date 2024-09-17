@@ -77,7 +77,7 @@
             <tr>
                 <td>&gt;10</td>
                 <td>Resistors</td>
-                <td>Resistors to limit current in certain components.</td>
+                <td>3:220 ohm 1: 10k ohm .</td>
                 <td><img src="https://github.com/user-attachments/assets/6e671d09-e9ea-4b95-adf9-8e5bcd19c994" alt="Resistors" width="300"></td>
             </tr>
         </tbody>
