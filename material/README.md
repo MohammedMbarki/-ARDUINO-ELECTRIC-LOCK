@@ -83,17 +83,5 @@
         </tbody>
     </table>
 
-### liens
-https://shop4makers.com/produit/regulateur-de-tension-ams1117-3-3v/        10dh
 
-https://shop4makers.com/produit/module-wifi-esp8266-esp-01s/    40dh
-
-https://shop4makers.com/produit/arduino-nano-type-c/    60dh
-
-https://shop4makers.com/produit/module-bouton-poussoir-2012mm/  5dh
-
-https://shop4makers.com/produit/pcb-perfore-double-face/    4 dh
-
-
-frais de livraison 35dh
 
